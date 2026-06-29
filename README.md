@@ -24,8 +24,8 @@ A Copa do Mundo FIFA 2026 representa a maior reestruturação da história do to
 | # | Fonte | Tipo | Link |
 |---|-------|------|------|
 | 1 | Tabela de Classificação Oficial — FIFA 2026 | Dados Oficiais | [fifa.com](https://www.fifa.com/pt/tournaments/mens/worldcup/canadamexicousa2026/standings) |
-| 2 | *Predicting the 2026 FIFA World Cup with Sufficient Dimension Reduction of Elo Rating Histories* | Artigo Científico (arXiv) | Rezaei & Samadi | (https://arxiv.org/abs/2606.24171)
-| 3 | Regulamento de Classificação FIFA 2026 | Documento Oficial | FIFA.com | (https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/groups-how-teams-qualify-tie-breakers)
+| 2 | *Predicting the 2026 FIFA World Cup with Sufficient Dimension Reduction of Elo Rating Histories* | Artigo Científico (arXiv) | [Rezaei & Samadi] | (https://arxiv.org/abs/2606.24171)
+| 3 | Regulamento de Classificação FIFA 2026 | Documento Oficial | [FIFA.com] | (https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/groups-how-teams-qualify-tie-breakers)
 | 4 | Análises de probabilidade de classificação | Portal esportivo | Lance! / Football Meets Data |
 
 > **Nota:** As fontes 1 e 2 foram carregadas diretamente no NotebookLM como base para as análises.
